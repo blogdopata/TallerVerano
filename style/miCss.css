@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+
+
+body{
+	background-color: black;
+}
+
+#contenedor{
+	width: 960px;
+	height: 1000px;
+	border: 1px solid white;
+	margin: 0px auto;
+}
+header{
+	background-color: #666666;
+	height: 200px;
+	border: 1px solid red;
+}
+nav{
+
+}
+
+h1{
+	color: white;
+}
